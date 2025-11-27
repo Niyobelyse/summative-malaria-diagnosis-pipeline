@@ -16,3 +16,8 @@ logs/
 /cell_images.zip
 /cell_images
 /src/__pycache__/
+
+models/
+uploads/
+*.h5
+*.hdf5
