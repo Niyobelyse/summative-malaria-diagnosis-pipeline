@@ -47,7 +47,7 @@ This project is  MLOps pipeline for malaria diagnosis using deep learning. It in
 ---
 
 ## API Endpoints
-![alt text](<Screenshot from 2025-11-27 19-52-18.png>)
+![alt text](<Screenshot from 2025-11-27 19-38-58.png>)
 - `/predict` - Predict single image
 - `/predict_batch` - Predict batch images
 - `/retrain` - Trigger model retraining
